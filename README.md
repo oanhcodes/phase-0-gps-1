@@ -8,3 +8,5 @@ git push origin master - pushes changes to master
 git checkout -b branchname - creates a new feature branch and navigates to it
 git status - checks status
 ls - list directory
+
+HELLO!
